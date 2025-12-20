@@ -3,7 +3,7 @@ joblib
 scikit-learn
 pandas
 numpy
-plotly.graph_objects
-plotly.express
+plotly
 PIL
 io
+
