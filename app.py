@@ -3,10 +3,6 @@
 
 # In[1]:
 
-
-pip install -r requirements.txt
-
-
 # In[19]:
 
 
