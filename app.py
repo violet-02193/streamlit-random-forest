@@ -3,8 +3,7 @@ import joblib
 import pandas as pd
 
 # 加载训练好的模型
-model_filename = "F:/random_forest_model.joblib"
-model = joblib.load(model_filename)
+model = joblib.load("random_forest_model.joblib")
 
 # 打印模型的特征名称（调试用途）
 print("Model feature names:", model.feature_names_in_)
