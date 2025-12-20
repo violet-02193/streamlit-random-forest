@@ -4,7 +4,7 @@
 # In[1]:
 
 
-# pip install streamlit
+pip install requirements.txt
 
 
 # In[19]:
